@@ -58,5 +58,11 @@
             "replace": false,
             "merge-dev": false
         }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
     }
 }
